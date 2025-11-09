@@ -69,6 +69,8 @@ function Home() {
             />
           </div>
 
+          <h1>Hyderabad</h1>
+
           <button type="submit" className="btn btn-primary w-100">
             Add Product
           </button>
