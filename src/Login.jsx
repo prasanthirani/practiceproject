@@ -35,6 +35,7 @@ function Login() {
       <div className="login-box">
         <div className="login-icon">👤</div>
         <h2>Member Login</h2>
+        <h1>Made Changes</h1>
 
         <form onSubmit={handleSubmit}>
           <label>Username *</label>
